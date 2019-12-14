@@ -1,6 +1,6 @@
 
 Githubのテスト
 
-##メンバー
-
-*testmember
+## メンバー
+* testmember
+　
